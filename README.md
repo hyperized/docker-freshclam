@@ -11,6 +11,6 @@ A simple ClamAV Freshclam daemon docker instance based on Alpine
 
 ### To run container 
 
-```docker run -p 3310:3310 freshclam```
+```docker run freshclam```
 
 Inspired by: [mko-x/docker-clamav](https://github.com/mko-x/docker-clamav)
